@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tarek-salah-763156165" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarek-salah-763156165" height="30" width="40" /></a>
-<a href="https://fb.com/tarek.salah.3979/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tarek.salah.3979/" height="30" width="40" /></a>
+<a href="https://fb.com/amr.abdallah.568/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tarek.salah.3979/" height="30" width="40" /></a>
 <a href="https://instagram.com/tarek_salaaah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tarek_salaaah" height="30" width="40" /></a>
 </p>
 
